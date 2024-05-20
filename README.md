@@ -15,7 +15,7 @@ Ensure you have the following installed:
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/GabrielNeves24/websocker_server_dad_202324.git
+git clone https://github.com/AndreJorge79/Websocket_server_dad
 cd your-websocket-repo
 npm install
 
